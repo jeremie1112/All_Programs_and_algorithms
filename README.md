@@ -11,6 +11,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)|      |    |     |[:octocat:](Breadth_First_Search/python) |        |
 | [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble_Sort/cpp)|      |[:octocat:](Bubble_Sort/python)|      |
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |     |[:octocat:](merge_Sort/python)|        |
+| [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort) |       |[:octocat:](selectionsort/C++) |         |          |        |
 
 ## Implemented Data Structures
 
