@@ -13,9 +13,9 @@ In this repository you can add all your programs and algorithms or Data Structur
 
 | Data Structure                                                                                  | C                                     | C++                                   | Java                                  | Python                                | Rust                                |
 |:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            |                                         | [:octocat:](linked_list/java) |        |        |
-| [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  |                         |                |           |        |
-| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             |               |            |        |        |
+| [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            | [:octocat:](linked_list/C++)                                         | [:octocat:](linked_list/java) |        |        |
+| [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  | [:octocat:](stack/C++)                         |                |           |        |
+| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             | [:octocat:](queue/C++)               |            |        |        |
 
 ## Sample Run
 
