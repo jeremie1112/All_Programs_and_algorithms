@@ -4,12 +4,12 @@ using namespace std;
 
 int fibonacci_printer(int n) {
 
-    std::vector<int> v(n+1,0);
+    std::vector<int> v(n,0);
     v[0]=0;v[1]=1;
-    for(int i=2;i<n+1;i++)
+    for(int i=2;i<n;i++)
         v[i]=v[i-1]+v[i-2];
 
-    for(int i=0;i<n+1;++i)
+    for(int i=0;i<n;++i)
     	cout<<v[i]<<" ";
 
     return 0;
