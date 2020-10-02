@@ -29,7 +29,8 @@ In this repository you can add all your programs and algorithms or Data Structur
 
 1. Fork it!
 2. Clone the forked repository to local system.
-3. Track the changes: `git add .`
-4. Commit your changes: `git commit -m 'Added some feature`
-5. Push to the branch: `git push origin master`
-6. Submit a pull request :smile:
+3. Please add the code to the according folder and if needed create the folder for the algorithm or DS and create the folder for programming language you are using(An example is Algorithms/quicksort/C).
+4. Track the changes: `git add .`
+5. Commit your changes: `git commit -m 'Added some feature`
+6. Push to the branch: `git push origin master`
+7. Submit a pull request :smile:
