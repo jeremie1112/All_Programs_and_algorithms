@@ -25,6 +25,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | C               | <pre>gcc [filename.c]<br>./a.out  # unix<br>a.exe  # windows</pre>     |
 | C++             | <pre>g++ [filename.cpp]<br>./a.out # unix<br>a.exe # windows</pre>     |
 | Java            | <pre>javac [filename.java]<br>java [filename]</pre>                    |
+| rust            | <pre>rustc [filename.rs]<br>./[filename]</pre>                    |
 
 ## Contributing
 
