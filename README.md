@@ -5,12 +5,12 @@ In this repository you can add all your programs and algorithms or Data Structur
 
 | Algorithm                                                                                       | C                                     | C++                                   | Java                                  | Python                                | Rust                                |
 |:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)                          |  [:octocat:](binary_search/C)                                      |         |[:octocat:](binary_search/java)                                        |      |        |
-| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |[:octocat:](quicksort/C)                                       |                                       |                                        |[:octocat:](quicksort/python)          |        | [RadixSort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |[:octocat:](radixsort/C++)                                       |                                        |          |        |
-[RadixSort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |                                      |                                        |[:octocat:](bubblesort/python)           |        |
-[Breadth First Search](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |                                      |                                        |[:octocat:](Breadth First Search/python)           |        |
-[Bubble Sort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       | [:octocat:](Bubble Sort/cpp)                                     |                                        |[:octocat:](Bubble Sort/python)           |        |
-[Marge Sort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |                                     |                                        |[:octocat:](merge  Sort/python)           |        |
+| [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |  [:octocat:](binary_search/C)  |    |[:octocat:](binary_search/java)  |      |      |
+| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)|[:octocat:](quicksort/C) |  |  | [:octocat:](quicksort/python)|   |
+| [RadixSort](https://en.wikipedia.org/wiki/Radix_sort) |       |[:octocat:](radixsort/C++) |         |          |        |
+| [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)|      |    |     |[:octocat:](Breadth First Search/python) |        |
+| [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble Sort/cpp)|      |[:octocat:](Bubble Sort/python)|      |
+| [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |     |[:octocat:](merge  Sort/python)|        |
 
 ## Implemented Data Structures
 
@@ -34,7 +34,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 
 1. Fork it!
 2. Clone the forked repository to local system.
-3. Please add the code to the according folder and if needed create the folder for the algorithm or DS and create the folder for programming language you are using(An example is Algorithms/quicksort/C).
+3. Please add the code to the according folder and if needed create the folder for the algorithm or DS and create the folder for programming language you are using(An example is Algorithms/quicksort/C/<filename>.c).
 4. Track the changes: `git add .`
 5. Commit your changes: `git commit -m 'Added some feature`
 6. Push to the branch: `git push origin master`
