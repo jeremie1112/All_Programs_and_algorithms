@@ -3,18 +3,18 @@ In this repository you can add all your programs and algorithms or Data Structur
 
 ## Implemented Programs and Algorithms
 
-| Algorithm                                                                                       | C                                     | C++                                   | Java                                  | Python                                |
-|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)                          |  [:octocat:](binary_search/C)                                      |         |                                        |      |
-| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |[:octocat:](quicksort/C)                                       |                                       |                                        |          |
+| Algorithm                                                                                       | C                                     | C++                                   | Java                                  | Python                                | Rust                                |
+|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)                          |  [:octocat:](binary_search/C)                                      |         |                                        |      |        |
+| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |[:octocat:](quicksort/C)                                       |                                       |                                        |          |        |
 
 ## Implemented Data Structures
 
-| Data Structure                                                                                  | C                                     | C++                                   | Java                                  | Python                                |
-|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            |                                         | [:octocat:](linked_list/C) |        |
-| [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  |                         |                |           |
-| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             |               |            |        |
+| Data Structure                                                                                  | C                                     | C++                                   | Java                                  | Python                                | Rust                                |
+|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            |                                         | [:octocat:](linked_list/java) |        |        |
+| [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  |                         |                |           |        |
+| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             |               |            |        |        |
 
 ## Sample Run
 
