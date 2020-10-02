@@ -8,6 +8,9 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)                          |  [:octocat:](binary_search/C)                                      |         |[:octocat:](binary_search/java)                                        |      |        |
 | [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |[:octocat:](quicksort/C)                                       |                                       |                                        |[:octocat:](quicksort/python)          |        | [RadixSort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |[:octocat:](radixsort/C++)                                       |                                        |          |        |
 [RadixSort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |                                      |                                        |[:octocat:](bubblesort/python)           |        |
+[Breadth First Search](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |                                      |                                        |[:octocat:](Breadth First Search/python)           |        |
+[Bubble Sort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       | [:octocat:](Bubble Sort/cpp)                                     |                                        |[:octocat:](Bubble Sort/python)           |        |
+[Marge Sort](https://en.wikipedia.org/wiki/Radix_sort)                                            |                                       |                                     |                                        |[:octocat:](merge  Sort/python)           |        |
 
 ## Implemented Data Structures
 
@@ -15,7 +18,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 |:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            | [:octocat:](linked_list/C++)                                         | [:octocat:](linked_list/java) |        |        |
 | [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  | [:octocat:](stack/C++)                         |                |           |        |
-| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             | [:octocat:](queue/C++)               |            |        |        |
+| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             | [:octocat:](queue/C++)               |            |[:octocat:](queue/python)         |        |
 
 ## Sample Run
 
