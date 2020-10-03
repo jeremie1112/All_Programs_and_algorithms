@@ -9,7 +9,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [QuickSort](https://en.wikipedia.org/wiki/Quicksort)|[:octocat:](quicksort/C) |  |  | [:octocat:](quicksort/python)|   |
 | [RadixSort](https://en.wikipedia.org/wiki/Radix_sort) |       |[:octocat:](radixsort/C++) |         |          |        |
 | [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)|      |    |     |[:octocat:](Breadth_First_Search/python) |        |
-| [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble_Sort/cpp)|      |[:octocat:](Bubble_Sort/python)|      |
+| [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble_Sort/cpp)| [:octocat:](Bubble_Sort/Java) |[:octocat:](Bubble_Sort/python)|      |
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |     |[:octocat:](merge_Sort/python)|        |
 | [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort) |       |[:octocat:](selectionsort/C++) |         |          |        |
 
