@@ -10,13 +10,13 @@ int fibonacci_printer(int n) {
         v[i]=v[i-1]+v[i-2];
 
     for(int i=0;i<n;++i)
-    	cout<<v[i]<<" ";
+        cout<<v[i]<<" ";
 
     return 0;
 }
 int main(){
-	int n;
-	cin >> n;
-	fibonacci_printer(n);
-	return 0;
+    int n;
+    cin >> n;
+    fibonacci_printer(n);
+    return 0;
 }
