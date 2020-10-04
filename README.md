@@ -12,6 +12,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble_Sort/cpp)| [:octocat:](Bubble_Sort/Java) |[:octocat:](Bubble_Sort/python)|      |
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |     |[:octocat:](merge_Sort/python)|        |
 | [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort) |       |[:octocat:](selectionsort/C++) |         |          |        |
+| [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) |       |       |[:octocat:](Insertion_Sort/Java) |          |        |
 
 ## Implemented Data Structures
 
