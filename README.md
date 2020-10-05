@@ -6,7 +6,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | Algorithm                                                                                       | C                                     | C++                                   | Java                                  | Python                                | Rust                                  | Clojure                              |
 |:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |  [:octocat:](binary_search/C)  |    |[:octocat:](binary_search/java)  |      |      |      |
-| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)|[:octocat:](quicksort/C) |  |  | [:octocat:](quicksort/python)|   |      |
+| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)|[:octocat:](quicksort/C) |  |  | [:octocat:](quicksort/python)|   |[:octocat:](quicksort/Clojure)|
 | [RadixSort](https://en.wikipedia.org/wiki/Radix_sort) |       |[:octocat:](radixsort/C++) |         |          |        |      |
 | [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)|      |    |     |[:octocat:](Breadth_First_Search/python) |        |      |
 | [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble_Sort/cpp)| [:octocat:](Bubble_Sort/Java) |[:octocat:](Bubble_Sort/python)|      | [:octocat:](Bubble_Sort/Clojure) |
