@@ -21,6 +21,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            | [:octocat:](linked_list/C++)                                         | [:octocat:](linked_list/java) |        |        |      |
 | [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  | [:octocat:](stack/C++)                         |[:octocat:](stack/java)              |           |        |      |
 | [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             | [:octocat:](queue/C++)               |[:octocat:](queue/Java)      |
+| [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))                               |             | [:octocat:](graph/C++)               |[:octocat:](graph/Java)      ||
 
 ## Sample Run
 
