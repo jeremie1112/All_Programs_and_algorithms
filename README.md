@@ -10,7 +10,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [RadixSort](https://en.wikipedia.org/wiki/Radix_sort) |       |[:octocat:](radixsort/C++) |         |          |        |      |
 | [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)|      |    |     |[:octocat:](Breadth_First_Search/python) |        |      |
 | [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)|     | [:octocat:](Bubble_Sort/cpp)| [:octocat:](Bubble_Sort/Java) |[:octocat:](Bubble_Sort/python)|      | [:octocat:](Bubble_Sort/Clojure) |
-| [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |     |[:octocat:](merge_Sort/python)|        |      |
+| [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |     |[:octocat:](merge_Sort/python)|        | [:octocat:](merge_Sort/Clojure) |
 | [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort) |       |[:octocat:](selectionsort/C++) |         |          |        |      |
 | [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) |       |       |[:octocat:](Insertion_Sort/Java) |          |        |      |
 
