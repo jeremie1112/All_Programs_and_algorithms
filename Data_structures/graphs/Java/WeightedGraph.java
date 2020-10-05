@@ -3,9 +3,7 @@ import java.lang.*;
 import java.io.*;
 
 
-
 //structure of the graph is source->(destination,weight).
-
 
 public class WeightedGraph{
 	static Map<Integer,List<Pair>>edges;
