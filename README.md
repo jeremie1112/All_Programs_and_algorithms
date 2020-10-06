@@ -23,6 +23,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |[:octocat:](stack/C)                  | [:octocat:](stack/C++)                         |[:octocat:](stack/java)              |           |        |      |
 | [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |             | [:octocat:](queue/C++)               |[:octocat:](queue/Java)      |
 | [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))                               |             | [:octocat:](graph/C++)               |[:octocat:](graph/Java)      ||
+[Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))                               |             |               |[:octocat:](heap/Java)      |
 
 ## Sample Run
 
