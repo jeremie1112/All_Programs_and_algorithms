@@ -13,7 +13,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)|    |   |  [:octocat:](merge_Sort/java)   |[:octocat:](merge_Sort/python)|        | [:octocat:](merge_Sort/Clojure) |
 | [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort) |       |[:octocat:](selectionsort/C++) |         |          |        |      |
 | [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) |       |       |[:octocat:](Insertion_Sort/Java) |          |        |      |
-| [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |       |[:octocat:](Kadane'sAlgorithm/C++) |[:octocat:](Insertion_Sort/Java) |[:octocat:](Insertion_Sort/Python)          |        |      |
+| [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |[:octocat:](Kadane'sAlgorithm/C)|[:octocat:](Kadane'sAlgorithm/C++) |[:octocat:](Insertion_Sort/Java) |[:octocat:](Insertion_Sort/Python)          |        |      |
 
 ## Implemented Data Structures
 
