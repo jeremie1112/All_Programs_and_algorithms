@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CodeJam_missing4 {
+public class CodeJam2019 {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
