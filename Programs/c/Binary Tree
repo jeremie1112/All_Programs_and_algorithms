@@ -1,0 +1,48 @@
+#include<stdlib.h>
+#include<stdio.h>
+struct node
+{
+	int data;
+	struct node* left, *right;
+};
+struct node* newNode(int data)
+{
+	struct node* new = (struct node*)malloc(sizeof(struct node));
+	new->data = data;
+	new->left = new->right = NULL;
+	return new;
+}
+struct node* insert(int a[], struct node* root, int i, int n)
+{
+	if (i <= n)
+	{
+		struct node* t = newNode(a[i]);
+		root = t;
+		root->left = insert(a, root->left, 2 * i , n);
+		root->right = insert(a, root->right, 2 * i + 1, n);
+	}
+	return root;
+}
+void inorder(struct node* root) {
+    if (root != NULL) {
+		inorder(root->left);
+		printf("%d ", root->data);
+		inorder(root->right);
+	}
+}
+int main()
+{
+	int n;
+	printf("How many elements do you want to store?\n");
+	scanf("%d", &n);
+	int a[n + 1];
+    printf("Enter the elements:\n");
+	for(int i = 1; i <= n; i++)
+		scanf("%d", &a[i]);
+	struct node* root = NULL;
+    printf("\nComplete Binary Tree:\n");	
+	root = insert(a, root, 1, n);
+	inorder(root);
+    printf("\n");
+	return 0;
+}
