@@ -1,0 +1,42 @@
+#include <iostream>
+
+using namespace std;
+class complex{
+ int a,b;
+ public:
+     void sett(int x,int y)
+     {
+         a=x;
+         b=y;
+     }
+     void show()
+     {
+         cout<<"a="<<a<<" b="<<b<<endl;
+     }
+     complex operator+(complex c)   //complex add(complex c)
+     {  complex temp;
+        temp.a= c.a+a;              //symbols that r not in c r not used for operator overloading as #,$
+        temp.b=c.b+b;
+        return temp;
+     }
+     complex operator-()
+     {
+         complex temp;
+         temp.a=-a;
+         temp.b=-b;
+         return temp;
+     }
+};
+int main()
+{
+     complex c,c1,c2;
+   c.sett(2,3);
+   c1.sett(5,6);
+   c2=c1+c;    //c2=c1.add(c);
+   c2.show();
+   c2 =-c1;      //method of unary operator no argument is passed
+   c2.show();
+   c1=c.operator-();  //method to call unary operator
+   c1.show();
+    return 0;
+}
