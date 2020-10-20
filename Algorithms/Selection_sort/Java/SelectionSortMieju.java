@@ -19,7 +19,7 @@ class SelectionSortMieju {
             unsortedArray[currentIndex] = helpVariable;
             beginIndex += 1;
             sort(unsortedArray,beginIndex);
-        }
+        }   
         return unsortedArray;
     }
 
