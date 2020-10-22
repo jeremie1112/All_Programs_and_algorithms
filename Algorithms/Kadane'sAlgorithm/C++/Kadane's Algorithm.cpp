@@ -1,15 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int KadaneAlgo(vector<int> &arr){
+int KadaneAlgo(const vector<int> &arr){
 	int len = arr.size();
-	if(len == 0)	return 0;
+	if(len == 0) return 0;
 	int i, Max_curr = arr[0], Max_sum = arr[0];
 	for(i = 1; i < len; i++){
-		if(Max_curr + arr[i] > arr[i])
-			Max_curr += arr[i];
-		else
-			Max_curr = arr[i];
+		Max_cur = max(Max_curr + arr[i], arr[i]);
 		if(Max_sum < Max_curr)
 			Max_sum = Max_curr;
 	}
