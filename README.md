@@ -14,12 +14,12 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort) |       |[:octocat:](selectionsort/C++) |         |          |        |      |
 | [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) |       |       |[:octocat:](Insertion_Sort/Java) |          |        |      |
 | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |[:octocat:](Kadane'sAlgorithm/C)|[:octocat:](Kadane'sAlgorithm/C++) |[:octocat:](Kadane'sAlgorithm/Java) |[:octocat:](Kadane'sAlgorithm/Python)          |        |      |
-| [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) | |[:octocat:](Counting Sort/C++) |[:octocat:](Counting Sort/Java) |[:octocat:](Counting Sort/Python)          |        |      |
+| [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) | |[:octocat:](Counting_Sort/C++) |[:octocat:](Counting_Sort/Java) |[:octocat:](Counting_Sort/Python)          |        |      |
 | [ShellSort](https://en.wikipedia.org/wiki/Shellsort) | | |[:octocat:](ShellSort/Java) |[:octocat:](ShellSort/Python)          |        |      |
-| [Linear Search](https://en.wikipedia.org/wiki/Linear_search) |[:octocat:](Linear Search/C)| |[:octocat:](Linear Search/Java) |          |        |      |
+| [Linear Search](https://en.wikipedia.org/wiki/Linear_search) |[:octocat:](Linear_Search/C)| |[:octocat:](Linear_Search/Java) |          |        |      |
 | [Heapsort](https://en.wikipedia.org/wiki/Heapsort) |[:octocat:](Heapsort/C)|[:octocat:](Heapsort/C++) |[:octocat:](Heapsort/Java) |[:octocat:](Heapsort/Python)          |        |      |
 | [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search) |[:octocat:](DFS/C)| | |   |        |      |
-| [DFS Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm) |[:octocat:](DFS Traversal/C)|[:octocat:](DFS Traversal/C++) |[:octocat:](DFS Traversal/Java) |      |        |      |
+| [DFS Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm) |[:octocat:](DFS_Traversal/C)|[:octocat:](DFS_Traversal/C++) |[:octocat:](DFS_Traversal/Java) |      |        |      |
 | [Bogosort](https://en.wikipedia.org/wiki/Bogosort) | | | |[:octocat:](Bogosort/Python)          |        |      |
 | [Bozosort](https://iq.opengenus.org/bozosort/) | | | |[:octocat:](Bozosort/Python)          |        |      |
 | [Bellman-Ford Algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) | | |[:octocat:](Bellman-Ford/Java) |          |        |      |
