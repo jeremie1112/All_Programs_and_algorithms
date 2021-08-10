@@ -34,9 +34,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))    |      [:octocat:](queue/C)       | [:octocat:](queue/C++)               |[:octocat:](queue/Java)      |[:octocat:](queue/python)
 | [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))     |             | [:octocat:](graph/C++)               |[:octocat:](graph/Java)      ||
 [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))   |             |               |[:octocat:](heap/Java)      |
-
 [Hashing](https://www.geeksforgeeks.org/hashing-data-structure/)    |             |               |[:octocat:](hashing/Java)      |
-
 | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) | | [:octocat:](tree/C++)  |[:octocat:](tree/java)   |           |        |      |
 
 ## Sample Run
