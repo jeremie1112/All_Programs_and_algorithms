@@ -16,7 +16,7 @@ In this repository you can add all your programs and algorithms or Data Structur
 | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |[:octocat:](Kadane'sAlgorithm/C)|[:octocat:](Kadane'sAlgorithm/C++) |[:octocat:](Kadane'sAlgorithm/Java) |[:octocat:](Kadane'sAlgorithm/Python)          |        |      |
 | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) | |[:octocat:](Counting_Sort/C++) |[:octocat:](Counting_Sort/Java) |[:octocat:](Counting_Sort/Python)          |        |      |
 | [ShellSort](https://en.wikipedia.org/wiki/Shellsort) | | |[:octocat:](ShellSort/Java) |[:octocat:](ShellSort/Python)          |        |      |
-| [Linear Search](https://en.wikipedia.org/wiki/Linear_search) |[:octocat:](Linear_Search/C)| |[:octocat:](Linear_Search/Java) |          |        |      |
+| [Linear Search](https://en.wikipedia.org/wiki/Linear_search) |[:octocat:](Linear_Search/C)| [:octocat:](Linear_Search/C) |[:octocat:](Linear_Search/Java) |          |        |      |
 | [Heapsort](https://en.wikipedia.org/wiki/Heapsort) |[:octocat:](Heapsort/C)|[:octocat:](Heapsort/C++) |[:octocat:](Heapsort/Java) |[:octocat:](Heapsort/Python)          |        |      |
 | [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search) |[:octocat:](DFS/C)| | |   |        |      |
 | [DFS Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm) |[:octocat:](DFS_Traversal/C)|[:octocat:](DFS_Traversal/C++) |[:octocat:](DFS_Traversal/Java) |      |        |      |
