@@ -13,6 +13,8 @@ class BST
 	
 	BST(int); 
 	
+	~BST();
+	
 	BST* Insert(BST *, int); 
 	
 	void Inorder(BST *); 
@@ -24,7 +26,12 @@ BST :: BST(int value)
 { 
 	data = value; 
 	left = right = NULL; 
-} 
+}
+
+BST :: ~BST() {
+	delete left;
+	delete right;
+}
 
  
 BST* BST :: Insert(BST *root, int value) 

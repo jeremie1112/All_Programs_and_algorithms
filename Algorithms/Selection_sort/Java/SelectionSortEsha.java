@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner; 
-class SelectionSort 
+class SelectionSortEsha 
 { 
      // Inputs values in the array 
     void input(int arr[]) 
@@ -44,7 +44,7 @@ class SelectionSort
     // Driver code to test above 
     public static void main(String args[]) 
     { 
-        SelectionSort ob = new SelectionSort();
+        SelectionSortEsha ob = new SelectionSortEsha();
         Scanner sc=new Scanner(System.in);
         int n;
         System.out.println("Enter the number of array elements");
