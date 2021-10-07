@@ -21,7 +21,7 @@ public class selection {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		int a[] = { 2, 7, 4, 15, 9 };
 		int n = a.length;
