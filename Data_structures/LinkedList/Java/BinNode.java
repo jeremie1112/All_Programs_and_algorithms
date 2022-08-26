@@ -1,48 +1,42 @@
-public class BinNode<T> {
-    protected T data;
-    protected BinNode<T> next;
-    BinNode<T> prev;
+public class BinNode {
+    protected int data;
+    protected BinNode next;
+    protected BinNode prev;
 
-    public BinNode(T data){
+    public BinNode(int data){
         this.data = data;
         next = prev = null;
     }
 
-    public BinNode(T data, BinNode<T> prev, BinNode<T> next){
+    public BinNode(int data, BinNode prev, BinNode next){
         this.data = data;
         this.prev = prev;
         this.next = next;
     }
 
-    public void setData(T data) {
+    public void setData(int data) {
         this.data = data;
     }
 
-    public void setNext(BinNode<T> next) {
+    public void setNext(BinNode next) {
         this.next = next;
     }
 
-    public void setPrev(BinNode<T> prev) {
+    public void setPrev(BinNode prev) {
         this.prev = prev;
     }
 
 
-    public T getData() {
+    public int getData() {
         return data;
     }
 
-    public BinNode<T> getNext() {
+    public BinNode getNext() {
         return next;
     }
 
-    public BinNode<T> getPrev() {
+    public BinNode getPrev() {
         return prev;
     }
 
-    @Override
-    public String toString() {
-        if (data == null) return "null";
-        else if (next != null) return data + ">>"+ next.toString();
-        else return data+">>null";
-    }
 }
