@@ -38,8 +38,6 @@ int main()
 	int n = sizeof(arr) / sizeof(arr[0]);
 
 	cout << maxWater(arr, n);
-	
-	cout << efficientRainWater(arr, n) << endl;
 
 	return 0;
 }
