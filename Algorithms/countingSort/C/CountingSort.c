@@ -7,7 +7,7 @@ void countingSort(int array[], int size) {
     if (array[i] > max)
       max = array[i];
   }
-
+  //hello
   int count[10];
 
   for (int i = 0; i <= max; ++i) {
