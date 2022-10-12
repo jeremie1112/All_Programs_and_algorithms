@@ -13,9 +13,9 @@ public class BMICalc{
 
     public static void main(String[] args){
         Scanner info = new Scanner(System.in);
-        System.out.println("Please enter your height in inches :  ");
+        System.out.print("Please enter your height in inches :  ");
         height = info.nextFloat();
-        System.out.println("Please enter your weight in pounds(lbs) : ");
+        System.out.print("Please enter your weight in pounds(lbs) : ");
         weight = info.nextFloat();
         //Output calculation.
         System.out.println("Your BMI(Body Mass Index) is " + 703 * weight/Math.pow(height, 2) + ".");
