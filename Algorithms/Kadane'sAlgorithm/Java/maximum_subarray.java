@@ -1,19 +1,31 @@
-public class maximum_subarray {
-    public static int max_contagious_subarray_sum(int[] arr){
-        int maximum_so_far=arr[0];
-        int maximum_ending_here=arr[0];
-        for(int i=1;i<arr.length;i++){
-            maximum_so_far=Math.max(arr[i], maximum_so_far+arr[i]);
-            if(maximum_so_far>maximum_ending_here){
-                maximum_ending_here=maximum_so_far;
+/**
+ * maxSumSubArray
+ */
+//Time Complexity is O(n^3)
+//This questions optimized solution is Prifix Sum Approch
+public class maxSumSubArray {
+    public static int maxSum(int arr[]){
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = i; j < arr.length; j++) {
+                int sum = 0;
+                for (int k = i; k <= j; k++) {
+                    sum += arr[k];
+                    System.out.print(arr[k] + " ");
+                }
+                if (sum>max) {
+                    max = sum;
+                }
+                System.out.print("\nSum of sub Array is " + sum);
+                System.out.println();
             }
+            System.out.println();
         }
-        return maximum_ending_here;
+        return max;
     }
-
     public static void main(String[] args) {
-        int[] arr= {-2, -3, 4, -1, -2, 1, 5, -3};
-        int max_cont_sub_sum=max_contagious_subarray_sum(arr);
-        System.out.println(max_cont_sub_sum);  
+        int array[] = {1,3,-5,1,4};
+        int max = maxSum(array);
+        System.out.println("\nMax Sum of Sub array is " + max);
     }
 }
