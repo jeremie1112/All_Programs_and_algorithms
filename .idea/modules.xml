@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anmolrepo.iml" filepath="$PROJECT_DIR$/Anmolrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Data_structures/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Bellman-Ford_Algorithm/Bellman-Ford_Algorithm.iml" filepath="$PROJECT_DIR$/Algorithms/Bellman-Ford_Algorithm/Bellman-Ford_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Bogosort/Bogosort.iml" filepath="$PROJECT_DIR$/Algorithms/Bogosort/Bogosort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/DFS_traversal_for_tree/DFS_traversal_for_tree.iml" filepath="$PROJECT_DIR$/Algorithms/DFS_traversal_for_tree/DFS_traversal_for_tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/Data_structures.iml" filepath="$PROJECT_DIR$/Data_structures/Data_structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Data_structures/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/Heap/Heap.iml" filepath="$PROJECT_DIR$/Data_structures/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/HeapSort/HeapSort.iml" filepath="$PROJECT_DIR$/Algorithms/HeapSort/HeapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Insertion_Sort/Insertion_Sort.iml" filepath="$PROJECT_DIR$/Algorithms/Insertion_Sort/Insertion_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Kadane'sAlgorithm/Kadane'sAlgorithm.iml" filepath="$PROJECT_DIR$/Algorithms/Kadane'sAlgorithm/Kadane'sAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/Algorithms/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Data_structures/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Pattern_Searching_Algorithm/Pattern_Searching_Algorithm.iml" filepath="$PROJECT_DIR$/Algorithms/Pattern_Searching_Algorithm/Pattern_Searching_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Programs.iml" filepath="$PROJECT_DIR$/Programs/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/Queue/Queue.iml" filepath="$PROJECT_DIR$/Data_structures/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Selection_sort/Selection_sort.iml" filepath="$PROJECT_DIR$/Algorithms/Selection_sort/Selection_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Shellsort/Shellsort.iml" filepath="$PROJECT_DIR$/Algorithms/Shellsort/Shellsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/Tree/Tree.iml" filepath="$PROJECT_DIR$/Data_structures/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/Algorithms/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/bubblesort/bubblesort.iml" filepath="$PROJECT_DIR$/Algorithms/bubblesort/bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/countingSort/countingSort.iml" filepath="$PROJECT_DIR$/Algorithms/countingSort/countingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/graphs/graphs.iml" filepath="$PROJECT_DIR$/Data_structures/graphs/graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/merge_sort/merge_sort.iml" filepath="$PROJECT_DIR$/Algorithms/merge_sort/merge_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/quicksort/quicksort.iml" filepath="$PROJECT_DIR$/Algorithms/quicksort/quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/sparsematrix/sparsematrix.iml" filepath="$PROJECT_DIR$/Algorithms/sparsematrix/sparsematrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_structures/stack/stack.iml" filepath="$PROJECT_DIR$/Data_structures/stack/stack.iml" />
+    </modules>
+  </component>
+</project>
